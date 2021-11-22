@@ -1,0 +1,76 @@
+<!doctype html>
+<center>
+<font size="6">
+<font color=lightblue>
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>Portfolio</title>
+	  </head>
+	  <body bgcolor="#A9J22H2">
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
+    <h1>This is my Portfolio Page!</h1>
+<font size="6">
+<img src="Images/Game.PNG" height="500">
+<div>
+		A game I made with code! The name is called "Protect the Castle". It was for a project for chapter 1 of PLTW.
+	<div>
+		In the game, you shoot the monsters using the spacebar and you lose if they reach your castle.
+	<div>
+		There are a lot of things in it like images that I have imported and I was able to make them move.
+		<div>
+		Theres also while loops, which helps reduce the amount of code and opens a new set of code ideas.
+		<div>
+		Also, giving the spacebar a function and the code to kill the monsters was very easy and fun to do. This assignment was almost as fun as the game!
+<div>
+<br>
+<div>
+<br>
+			<div>
+<img src="Images/Game2.PNG" height="500">
+<div>
+		Another game that was made for a PLTW chapter 2 project. This game was inspired by the VERY famous Bubble Trouble.
+	<div>
+		This was for the chapter two project of PLTW. In this game, it is actually multiplayer.
+	<div>
+	There are two people and the can both move and shoot. There is also a ball which moves with physics and math.
+		<div>
+	If the ball is hit,it respawns elsewhere. If the ball hits a player, the player dies.
+			<div>
+	The game is over when both players die and if their score is great enough, the will end up on the leaderboard.
+<div>
+<br>
+<div>
+<br>
+			<div>
+<img src="Images/towerdefense.PNG" height="500">
+<div>				
+
+	This game was made for a scratch project and it is based of the pre-existing game Bloons Tower Defense.
+<div>
+	Scratch was easy to code some parts, but other parts of the game got a bit more complicated because of scratch's limited options.
+<div>
+	To play the game, you drag out the defender, Andie, to the grass and he will start attacking the evil minions.
+<div>
+	Andie costs $500 to place down and when he hits an evil minion, your score increases and the minion loses a life.
+<div>
+	When a minion dies, you gain a little money. Also, the minions gain more lives as the game goes on and it gets harder.
+<div>
+	When the minion reaches the end of the path, the game is over and you lose.
+	
+<br>
+<img src="Images/graphs.PNG" height="700">
+<div>
+<img src="Images/forest.jpg" height="500">
+	<div>
+	The next project, predicting/guessing which graph was which enviroment. This project was diffuicult because they didnt specify the data.
+	<div>
+	It took a lot of trials and reading the data, but eventually, after a long time, I came to a conclusion.
+	<div>
+	I finally decided that it was the inland forest because the data matched with it more than any other region.
+	<div>
+	Two regions that were highly considered were the marshlands and the rocky mountain, but they were just a little off.
+	<div>
+	Making graphs of the data helped because I compared them with the graph given and it made choosing a region a lot easier.
